@@ -1,6 +1,4 @@
 
-# Algoritmo-de-detecion-de-actividad-sospechosa-Js-
-=======
 # Algoritmos de Optimización - Cache LRU
 
 este algoritmo de cache LRU (Least Recently Used) El objetivo es mantener una memoria temporal con un tamaño máximo fijo, eliminando siempre el elemento **menos usado recientemente** cuando se agrega uno nuevo y la capacidad está llena.
@@ -91,5 +89,6 @@ Restricciones al hacer este algortimo:
 • Operaciones get y put deben ser O(1)
 • Capacidad máxima debe respetarse siempre
 • Implementar usando estructuras de datos apropiadas
+
 
 
