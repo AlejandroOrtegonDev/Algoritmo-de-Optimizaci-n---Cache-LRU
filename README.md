@@ -9,7 +9,7 @@ este algoritmo de cache LRU (Least Recently Used) El objetivo es mantener una me
 
 Al iniciar cualquiere algoritmo o ejercicio realizo un analisis para su posterior ejecucion como se muestra en el pizarron
 
-![Flujo LRU](algortmo-%20cache/img/flujo%20-%20LRU.png)
+![Flujo LRU](/img/flujo%20-%20LRU.png)
 
 
 # ejercicio 
@@ -85,10 +85,11 @@ node "algortmo- cache/LRU.js"
 
 **Salida esperada:**
 
-![Salida del programa](algortmo-%20cache/img/salida.png) 
+![Salida del programa](/img/salida.png) 
 
 Restricciones al hacer este algortimo:
 • Operaciones get y put deben ser O(1)
 • Capacidad máxima debe respetarse siempre
 • Implementar usando estructuras de datos apropiadas
+
 
