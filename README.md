@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Algoritmo-de-detecion-de-actividad-sospechosa-Js-
 =======
 # Algoritmos de Optimización - Cache LRU
@@ -91,4 +91,4 @@ Restricciones al hacer este algortimo:
 • Operaciones get y put deben ser O(1)
 • Capacidad máxima debe respetarse siempre
 • Implementar usando estructuras de datos apropiadas
->>>>>>> 71f781b (Primer commit del proyecto de detección de actividad sospechosa)
+
